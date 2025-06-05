@@ -1,0 +1,4 @@
+transformer
+# sqlite3
+requests
+torch
